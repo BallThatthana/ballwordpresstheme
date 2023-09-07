@@ -1,0 +1,106 @@
+[26-Aug-2023 04:53:31 UTC] PHP Warning:  Constant WP_DEFAULT_THEME already defined in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-config.php on line 97
+[26-Aug-2023 05:04:04 UTC] PHP Warning:  Constant WP_DEFAULT_THEME already defined in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-config.php on line 97
+[26-Aug-2023 05:04:04 UTC] PHP Warning:  Constant WP_DEFAULT_THEME already defined in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-config.php on line 97
+[26-Aug-2023 07:07:31 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[26-Aug-2023 07:19:53 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\functions.php on line 4
+[26-Aug-2023 07:19:53 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\functions.php on line 4
+[26-Aug-2023 07:20:41 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\functions.php on line 4
+[26-Aug-2023 07:20:41 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\functions.php on line 4
+[26-Aug-2023 07:20:42 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\functions.php on line 4
+[26-Aug-2023 07:20:43 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\functions.php on line 4
+[26-Aug-2023 07:21:14 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\functions.php on line 4
+[26-Aug-2023 07:21:14 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\functions.php on line 4
+[26-Aug-2023 07:21:41 UTC] PHP Parse error:  syntax error, unexpected identifier "add_action" in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\functions.php on line 5
+[26-Aug-2023 07:21:41 UTC] PHP Parse error:  syntax error, unexpected identifier "add_action" in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\functions.php on line 5
+[26-Aug-2023 07:39:06 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\functions.php on line 5
+[26-Aug-2023 07:39:06 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\functions.php on line 5
+[26-Aug-2023 07:40:07 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\functions.php on line 5
+[26-Aug-2023 07:40:07 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\functions.php on line 5
+[26-Aug-2023 07:40:08 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\functions.php on line 5
+[26-Aug-2023 07:40:08 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\functions.php on line 5
+[26-Aug-2023 07:40:33 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\functions.php on line 5
+[26-Aug-2023 07:40:33 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\functions.php on line 5
+[26-Aug-2023 07:41:17 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\functions.php on line 5
+[26-Aug-2023 07:41:17 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\functions.php on line 5
+[26-Aug-2023 07:41:18 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\functions.php on line 5
+[26-Aug-2023 07:41:18 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\functions.php on line 5
+[26-Aug-2023 07:41:49 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\functions.php on line 5
+[26-Aug-2023 07:41:49 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\functions.php on line 5
+[26-Aug-2023 07:42:34 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\functions.php on line 5
+[26-Aug-2023 07:42:34 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\functions.php on line 5
+[26-Aug-2023 07:42:35 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\functions.php on line 5
+[26-Aug-2023 07:42:35 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\functions.php on line 5
+[26-Aug-2023 07:42:46 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\functions.php on line 5
+[26-Aug-2023 07:42:46 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\functions.php on line 5
+[26-Aug-2023 07:43:27 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\functions.php on line 5
+[26-Aug-2023 07:43:27 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\functions.php on line 5
+[26-Aug-2023 07:43:28 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\functions.php on line 5
+[26-Aug-2023 07:43:28 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\functions.php on line 5
+[26-Aug-2023 07:43:29 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\functions.php on line 5
+[26-Aug-2023 07:43:29 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\functions.php on line 5
+[26-Aug-2023 07:43:31 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\functions.php on line 5
+[26-Aug-2023 07:43:31 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\functions.php on line 5
+[26-Aug-2023 07:43:56 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\functions.php on line 5
+[26-Aug-2023 07:43:56 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\functions.php on line 5
+[26-Aug-2023 07:44:03 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\functions.php on line 5
+[26-Aug-2023 07:44:03 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\functions.php on line 5
+[26-Aug-2023 07:44:04 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\functions.php on line 5
+[26-Aug-2023 07:44:04 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\functions.php on line 5
+[26-Aug-2023 07:44:11 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\functions.php on line 5
+[26-Aug-2023 07:44:11 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\functions.php on line 5
+[26-Aug-2023 08:14:36 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\functions.php on line 6
+[26-Aug-2023 08:23:15 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "have_posts" in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\front-page.php:11
+Stack trace:
+#0 C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Ball\\L...')
+#2 C:\Users\Ball\Local Sites\ballthatthana123\app\public\index.php(17): require('C:\\Users\\Ball\\L...')
+#3 {main}
+  thrown in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\front-page.php on line 11
+[26-Aug-2023 15:39:43 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "footer", expecting ")" in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\functions.php on line 13
+[26-Aug-2023 15:39:43 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "footer", expecting ")" in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\functions.php on line 13
+[26-Aug-2023 15:39:43 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 372
+[26-Aug-2023 15:39:43 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 373
+[26-Aug-2023 16:00:47 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[26-Aug-2023 16:06:22 UTC] PHP Parse error:  syntax error, unexpected token "=", expecting end of file in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\header.php on line 37
+[26-Aug-2023 16:06:49 UTC] PHP Parse error:  syntax error, unexpected token "=" in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\header.php on line 34
+[26-Aug-2023 16:07:41 UTC] PHP Parse error:  syntax error, unexpected token "=", expecting end of file in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\header.php on line 38
+[26-Aug-2023 16:07:54 UTC] PHP Warning:  Array to string conversion in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\header.php on line 38
+[26-Aug-2023 16:07:57 UTC] PHP Warning:  Array to string conversion in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\header.php on line 38
+[26-Aug-2023 16:08:13 UTC] PHP Parse error:  syntax error, unexpected token "=", expecting end of file in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\header.php on line 38
+[26-Aug-2023 16:58:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_comments_count() in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\template-parts\content-article.php:8
+Stack trace:
+#0 C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-includes\template.php(785): require()
+#1 C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-includes\template.php(718): load_template('C:\\Users\\Ball\\L...', false, Array)
+#2 C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\single.php(9): get_template_part('template-parts/...', 'article')
+#4 C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Ball\\L...')
+#5 C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Ball\\L...')
+#6 C:\Users\Ball\Local Sites\ballthatthana123\app\public\index.php(17): require('C:\\Users\\Ball\\L...')
+#7 {main}
+  thrown in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\template-parts\content-article.php on line 8
+[26-Aug-2023 17:08:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_comments_count() in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\comments.php:12
+Stack trace:
+#0 C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-includes\comment-template.php(1550): require()
+#1 C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\template-parts\content-article.php(17): comments_template()
+#2 C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-includes\template.php(785): require('C:\\Users\\Ball\\L...')
+#3 C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-includes\template.php(718): load_template('C:\\Users\\Ball\\L...', false, Array)
+#4 C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#5 C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\single.php(9): get_template_part('template-parts/...', 'article')
+#6 C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Ball\\L...')
+#7 C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Ball\\L...')
+#8 C:\Users\Ball\Local Sites\ballthatthana123\app\public\index.php(17): require('C:\\Users\\Ball\\L...')
+#9 {main}
+  thrown in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\comments.php on line 12
+[07-Sep-2023 06:16:17 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function get_page_by_title(), 0 passed in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\header.php on line 72 and at least 1 expected in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-includes\deprecated.php:4557
+Stack trace:
+#0 C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\header.php(72): get_page_by_title()
+#1 C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-includes\template.php(785): require_once('C:\\Users\\Ball\\L...')
+#2 C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-includes\template.php(720): load_template('C:\\Users\\Ball\\L...', true, Array)
+#3 C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#4 C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\page.php(2): get_header()
+#5 C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Ball\\L...')
+#6 C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Ball\\L...')
+#7 C:\Users\Ball\Local Sites\ballthatthana123\app\public\index.php(17): require('C:\\Users\\Ball\\L...')
+#8 {main}
+  thrown in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-includes\deprecated.php on line 4557
+[07-Sep-2023 06:24:14 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in C:\Users\Ball\Local Sites\ballthatthana123\app\public\wp-content\themes\custom_theme\header.php on line 78
